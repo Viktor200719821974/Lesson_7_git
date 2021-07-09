@@ -1,0 +1,230 @@
+@media screen and (max-width: 480px) {
+    .header_top_menu, .wraper_first_screen_right, .two_screen_left, .six_screen_img {
+        display: none;
+    }
+    .wrap {
+        margin: 0 20px;
+        width: 100vh;
+    }
+    .wraper_first_screen_left h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .first_screen {
+        padding-bottom: 50px;
+        margin: 30px ;
+        background: bisque;
+    }
+    .first_screen_button {
+        position: initial;
+        margin: 50px auto 0;
+    }
+    .button_mobile {
+        display: flex;
+    }
+    .wraper_first_screen_left {
+        max-width: none;
+        margin-top: 20px;
+    }
+    .wraper_first_screen {
+        padding: 0 20px 0 10px;
+    }
+    .first_screen_button {
+        margin: 10px 20px 0 200px;
+    }
+    .first_screen_button h4 {
+        margin-top: 30px;
+    }
+    .two_screen {
+        margin: 20px 20px 20px 200px;
+        width: 100vh;
+    }
+    .text1 {
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 25px;
+        color: #000000;
+        width: auto;
+        height: auto;
+    }
+    .text2 {
+        font-weight: bold;
+        font-size: 42px;
+        line-height: 48px;
+        color: #000000;
+        width: auto;
+        height: auto;
+    }
+    .two_screen_right {
+        padding: 20px;
+        background: #8BD4D6;
+    }
+    .three_screen h2 {
+        font-size: 48px;
+        line-height: 48px;
+        padding: 50px 30px 30px 20px;
+    }
+    .three_screen_items1 p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .three_screen_items h4 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .three_screen_items_p1 {
+        width: 200px;
+        height: 127px;
+        margin: 10px 32px 50px 0;
+    }
+    .three_screen_items_p2 {
+        width: 200px;
+        height: 84px;
+        margin: 10px 50px 60px 0;
+    }
+    .three_screen_items_p3 {
+        width: 258px;
+        height: 93px;
+    }
+    .three_screen_img {
+        column-gap: 38px;
+    }
+    .three_screen {
+        background: bisque;
+    }
+    .three_screen_button button {
+        margin-left: 216px;
+        margin-bottom: 10px;
+    }
+    .four_screen h2 {
+        font-size: 41px;
+        line-height: 42px;
+        padding: 0 0 35px 20px;
+        margin-top: 78px;
+    }
+    .four_screen {
+        margin-left: 70px ;
+    }
+    .four_screen_img {
+        column-gap: 0;
+    }
+    .four_screen_items h4 {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .wrap1 {
+        background: #ffffff;
+    }
+    .four_screen_items_p1 {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 20px;
+        width: 267px;
+        height: 144px;
+        margin: 10px 44px 89px 0;
+    }
+    .four_screen_items_p2 {
+        font-size: 16px;
+        line-height: 20px;
+        width: 260px;
+        height: 120px;
+        margin: 10px 49px 113px 0;
+    }
+    .four_screen_items_p3 {
+        font-size: 16px;
+        line-height: 20px;
+        width: 275px;
+    }
+    .text3 {
+        font-size: 20px;
+        line-height: 22px;
+        width: 235px;
+        height: 0;
+        margin: 50px 10px 247px 30px;
+    }
+    .five_screen_sponsor {
+        margin: 10px 0 20px 10px;
+    }
+    .five_screen_sponsor1 {
+        margin-left: 50px;
+        column-gap: 30px;
+    }
+    .five_screen_sponsor2 {
+        margin-left: 73px;
+        column-gap: 17px;
+    }
+    .five_screen {
+        margin-left: 20px;
+    }
+    .six_screen_left h2 {
+        font-size: 38px;
+        line-height: 31px;
+        margin: 66px 20px 20px 70px;
+    }
+    .text4 {
+        width: 480px;
+        height: 35px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .six_screen_left_button button {
+        margin: 60px 30px 20px 100px;
+    }
+    .six_screen {
+        margin-left: 280px;
+    }
+    .seven_screen {
+        width: 100vh;
+        height: 200px;
+        margin: 50px 20px 60px 133px;
+    }
+    .seven_screen_items h2 {
+        font-size: 26px;
+        line-height: 28px;
+        margin: 50px 150px 18px 90px;
+    }
+    .eight_screen {
+        height: 488px;
+        padding-left: 33px;
+        width:1022px;
+    }
+    .eight_screen_top h4 {
+        margin-top: 40px;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .eight_screen_logo {
+        margin: 26px 18px 17px 0;
+    }
+    .eight_screen_items h4 {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 7px;
+    }
+    .eight_screen_items2 {
+        margin-right: 30px;
+    }
+    .eight_screen_items1 {
+        margin: 0 30px 0 0;
+    }
+    .eight_screen_items3 {
+        margin-right: 30px;
+    }
+    .eight_screen_items4 {
+        margin-right: 72px;
+    }
+    .eight_screen_items_kontakt h4 {
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 40px;
+        margin-bottom: 5px;
+    }
+    .text6 {
+        margin: 30px 10px 0 0;
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .eight_screen_items_img {
+        margin: 0 180px 1px 319px;
+    }
+}
